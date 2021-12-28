@@ -1,0 +1,15 @@
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\00_Aulas.exe
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\00_Aulas.deps.json
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\00_Aulas.runtimeconfig.json
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\00_Aulas.dll
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\ref\00_Aulas.dll
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\bin\Debug\net6.0\00_Aulas.pdb
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.csproj.AssemblyReference.cache
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.AssemblyInfoInputs.cache
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.AssemblyInfo.cs
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.csproj.CoreCompileInputs.cache
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.dll
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\ref\00_Aulas.dll
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.pdb
+C:\Users\Henri\OneDrive\01_Studing\Coding\C#\Curso_GP\00_Aulas\obj\Debug\net6.0\00_Aulas.genruntimeconfig.cache
